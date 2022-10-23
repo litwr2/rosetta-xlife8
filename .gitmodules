@@ -10,3 +10,6 @@
 [submodule "ibmpc"]
 	path = ibmpc
 	url = git@github.com:litwr/xlife8-ibmpc.git
+[submodule "amiga"]
+	path = amiga
+	url = git@github.com:litwr/xlife8-amiga.git
