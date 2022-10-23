@@ -4,3 +4,6 @@
 [submodule "cpc6128"]
 	path = cpc6128
 	url = git@github.com:litwr/xlife8-cpc6128.git
+[submodule "bk0011"]
+	path = bk0011
+	url = git@github.com:litwr/xlife8-bk0011.git
