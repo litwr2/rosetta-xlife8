@@ -7,3 +7,6 @@
 [submodule "bk0011"]
 	path = bk0011
 	url = git@github.com:litwr/xlife8-bk0011.git
+[submodule "ibmpc"]
+	path = ibmpc
+	url = git@github.com:litwr/xlife8-ibmpc.git
